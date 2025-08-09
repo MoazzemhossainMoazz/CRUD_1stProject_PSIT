@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model FirstProject.Models.EmployeeModels
+
+<h1>Employee form</h1>
+<form asp-action="Create" asp-controller="Employee" method="post" enctype="multipart/form-data">
+    <label for="name">Name:</label><br />
+    <input type="text" id="name" asp-for="Name" required /><br /><br />
+
+    <label for="contact">Contact:</label><br />
+    <input type="number" id="contact" asp-for="Contact" required /><br /><br />
+
+    <label for="Picture">Picture</label><br />
+    <input type="file" id="Picture" name="Picture" required /><br /><br />
+
+    <input type="submit" value="Submit" />
+</form>
