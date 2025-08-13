@@ -36,7 +36,7 @@ namespace FirstProject.Controllers
                     string extension = Path.GetExtension(fileName);
                     string filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "pictures", employee.Name + extension);
 
-                    if (extension != ".jpg" && extension != ".png" && extension != "jpeg")
+                    if (extension != ".jpg" && extension != ".png" && extension != ".jpeg")
                     {
                         ModelState.AddModelError("Picture", "Only .jpg, .png, .jpeg file are allowed");
                         return View(employee);
