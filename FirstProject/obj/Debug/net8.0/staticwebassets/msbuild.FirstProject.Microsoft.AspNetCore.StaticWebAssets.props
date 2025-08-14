@@ -1110,8 +1110,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zwjk3p6ghl</Fingerprint>
-      <Integrity>LRfnFXztawrFwC2e6Pw1HfBH6gmXSgKX/UXlUETOMOw=</Integrity>
+      <Fingerprint>e83f98s3ql</Fingerprint>
+      <Integrity>4vjqhKC2ajWJOmRxHqQq759WC7jXiFOadqOxyrlrWKM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pictures\Moazz.jpg'))</OriginalItemSpec>

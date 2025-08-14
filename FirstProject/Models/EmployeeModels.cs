@@ -11,7 +11,7 @@ namespace FirstProject.Models
 
         public string? PicturePath { get; set; }
         [NotMapped]
-        public IFormFile Picture { get; set; }
+        public IFormFile? Picture { get; set; }
 
     }
 }

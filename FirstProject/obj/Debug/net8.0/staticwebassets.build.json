@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gwpnnh3BeKBPV9cqFe4ti81DFwGV/l9x1yZR3XxB1OA=",
+  "Hash": "GcqYGxFdARJOTzjlOK8m1KlH7tMrp9R5AK/Gq424zXY=",
   "Source": "FirstProject",
   "BasePath": "_content/FirstProject",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zwjk3p6ghl",
-      "Integrity": "LRfnFXztawrFwC2e6Pw1HfBH6gmXSgKX/UXlUETOMOw=",
+      "Fingerprint": "e83f98s3ql",
+      "Integrity": "4vjqhKC2ajWJOmRxHqQq759WC7jXiFOadqOxyrlrWKM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\pictures\\Moazz.jpg"
@@ -6468,6 +6468,51 @@
       ]
     },
     {
+      "Route": "pictures/Moazz.e83f98s3ql.jpg",
+      "AssetFile": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\wwwroot\\pictures\\Moazz.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "879150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4vjqhKC2ajWJOmRxHqQq759WC7jXiFOadqOxyrlrWKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Aug 2025 18:08:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e83f98s3ql"
+        },
+        {
+          "Name": "label",
+          "Value": "pictures/Moazz.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4vjqhKC2ajWJOmRxHqQq759WC7jXiFOadqOxyrlrWKM="
+        }
+      ]
+    },
+    {
       "Route": "pictures/Moazz.jpg",
       "AssetFile": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\wwwroot\\pictures\\Moazz.jpg",
       "Selectors": [],
@@ -6478,7 +6523,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2583627"
+          "Value": "879150"
         },
         {
           "Name": "Content-Type",
@@ -6486,11 +6531,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LRfnFXztawrFwC2e6Pw1HfBH6gmXSgKX/UXlUETOMOw=\""
+          "Value": "\"4vjqhKC2ajWJOmRxHqQq759WC7jXiFOadqOxyrlrWKM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 17:30:59 GMT"
+          "Value": "Thu, 14 Aug 2025 18:08:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6500,52 +6545,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LRfnFXztawrFwC2e6Pw1HfBH6gmXSgKX/UXlUETOMOw="
-        }
-      ]
-    },
-    {
-      "Route": "pictures/Moazz.zwjk3p6ghl.jpg",
-      "AssetFile": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\wwwroot\\pictures\\Moazz.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2583627"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LRfnFXztawrFwC2e6Pw1HfBH6gmXSgKX/UXlUETOMOw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 17:30:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zwjk3p6ghl"
-        },
-        {
-          "Name": "label",
-          "Value": "pictures/Moazz.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LRfnFXztawrFwC2e6Pw1HfBH6gmXSgKX/UXlUETOMOw="
+          "Value": "sha256-4vjqhKC2ajWJOmRxHqQq759WC7jXiFOadqOxyrlrWKM="
         }
       ]
     },

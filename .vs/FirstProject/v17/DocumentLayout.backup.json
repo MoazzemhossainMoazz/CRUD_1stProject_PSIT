@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\PowerSoftIT\\MyProject\\FirstProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|d:\\powersoftit\\myproject\\firstproject\\firstproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|d:\\powersoftit\\myproject\\firstproject\\firstproject\\models\\employeemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\models\\employeemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|d:\\powersoftit\\myproject\\firstproject\\firstproject\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|d:\\powersoftit\\myproject\\firstproject\\firstproject\\data\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\data\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|d:\\powersoftit\\myproject\\firstproject\\firstproject\\models\\employeemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\models\\employeemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|d:\\powersoftit\\myproject\\firstproject\\firstproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|d:\\powersoftit\\myproject\\firstproject\\firstproject\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|d:\\powersoftit\\myproject\\firstproject\\firstproject\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|d:\\powersoftit\\myproject\\firstproject\\firstproject\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD327CB8-AC44-4F68-8BAC-242D013AC4FA}|FirstProject\\FirstProject.csproj|d:\\powersoftit\\myproject\\firstproject\\firstproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 40,
+          "SelectedChildIndex": 43,
           "Children": [
             {
               "$type": "Bookmark",
@@ -218,7 +222,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FirstProject\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "FirstProject\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T18:01:58.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "20250809172922_innt.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Migrations\\20250809172922_innt.cs",
               "RelativeDocumentMoniker": "FirstProject\\Migrations\\20250809172922_innt.cs",
@@ -230,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "FirstProject\\Views\\Employee\\Create.cshtml",
@@ -238,11 +255,12 @@
               "RelativeToolTip": "FirstProject\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-09T09:07:26.521Z"
+              "WhenOpened": "2025-08-09T09:07:26.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FirstProject\\Controllers\\HomeController.cs",
@@ -254,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeData.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Data\\EmployeeData.cs",
               "RelativeDocumentMoniker": "FirstProject\\Data\\EmployeeData.cs",
@@ -262,24 +280,25 @@
               "RelativeToolTip": "FirstProject\\Data\\EmployeeData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T06:45:40.615Z"
+              "WhenOpened": "2025-08-09T06:45:40.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "FirstProject\\Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Controllers\\EmployeeController.cs*",
-              "RelativeToolTip": "FirstProject\\Controllers\\EmployeeController.cs*",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAAHcAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "FirstProject\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAE4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T06:34:43.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "FirstProject\\Views\\Employee\\Index.cshtml",
@@ -291,19 +310,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EmployeeModels.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Models\\EmployeeModels.cs",
               "RelativeDocumentMoniker": "FirstProject\\Models\\EmployeeModels.cs",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Models\\EmployeeModels.cs",
-              "RelativeToolTip": "FirstProject\\Models\\EmployeeModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Models\\EmployeeModels.cs*",
+              "RelativeToolTip": "FirstProject\\Models\\EmployeeModels.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T06:39:28.143Z"
+              "WhenOpened": "2025-08-09T06:39:28.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FirstProject\\Views\\Shared\\_Layout.cshtml",
@@ -315,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "20250809090313_first1.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Migrations\\20250809090313_first1.cs",
               "RelativeDocumentMoniker": "FirstProject\\Migrations\\20250809090313_first1.cs",
@@ -327,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "20250809072258_first.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Migrations\\20250809072258_first.cs",
               "RelativeDocumentMoniker": "FirstProject\\Migrations\\20250809072258_first.cs",
@@ -339,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "20250809072512_second.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Migrations\\20250809072512_second.cs",
               "RelativeDocumentMoniker": "FirstProject\\Migrations\\20250809072512_second.cs",
@@ -351,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "FirstProject\\Properties\\launchSettings.json",
@@ -363,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\Program.cs",
               "RelativeDocumentMoniker": "FirstProject\\Program.cs",
@@ -375,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\appsettings.json",
               "RelativeDocumentMoniker": "FirstProject\\appsettings.json",
@@ -387,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FirstProject.csproj",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\FirstProject.csproj",
               "RelativeDocumentMoniker": "FirstProject\\FirstProject.csproj",
