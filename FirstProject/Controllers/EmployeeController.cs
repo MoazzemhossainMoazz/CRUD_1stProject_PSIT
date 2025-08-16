@@ -27,6 +27,16 @@ namespace FirstProject.Controllers
             return RedirectToAction("Index");
         }
 
+        public ActionResult Details(int id)
+        {
+            var model = _dbContext.Employees.Find(id);
+            if (model == null)
+            {
+                return NotFound();
+            }
+            return View(model);
+        }
+
         public ActionResult Create()
         {
             return View();

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GcqYGxFdARJOTzjlOK8m1KlH7tMrp9R5AK/Gq424zXY=",
+  "Hash": "ylRd5Hzvi0oALS9NgNMFOFTZaMXOqlJs69tXYkJ6yWc=",
   "Source": "FirstProject",
   "BasePath": "_content/FirstProject",
   "Mode": "Default",
@@ -1317,6 +1317,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\wwwroot\\pictures\\asdfa.jpg",
+      "SourceId": "FirstProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\wwwroot\\",
+      "BasePath": "_content/FirstProject",
+      "RelativePath": "pictures/asdfa#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2gm6h5a2zb",
+      "Integrity": "IrwvrUOWyWUiwlBAVyCvVK939lbJfi0w9rkS8XF0sxg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pictures\\asdfa.jpg"
     },
     {
       "Identity": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\wwwroot\\pictures\\Moazz.jpg",
@@ -6464,6 +6485,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "pictures/asdfa.2gm6h5a2zb.jpg",
+      "AssetFile": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\wwwroot\\pictures\\asdfa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "831720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IrwvrUOWyWUiwlBAVyCvVK939lbJfi0w9rkS8XF0sxg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 17:42:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2gm6h5a2zb"
+        },
+        {
+          "Name": "label",
+          "Value": "pictures/asdfa.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IrwvrUOWyWUiwlBAVyCvVK939lbJfi0w9rkS8XF0sxg="
+        }
+      ]
+    },
+    {
+      "Route": "pictures/asdfa.jpg",
+      "AssetFile": "D:\\PowerSoftIT\\MyProject\\FirstProject\\FirstProject\\wwwroot\\pictures\\asdfa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "831720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IrwvrUOWyWUiwlBAVyCvVK939lbJfi0w9rkS8XF0sxg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 17:42:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IrwvrUOWyWUiwlBAVyCvVK939lbJfi0w9rkS8XF0sxg="
         }
       ]
     },

@@ -5169,6 +5169,88 @@
       ]
     },
     {
+      "Route": "pictures/asdfa.2gm6h5a2zb.jpg",
+      "AssetFile": "pictures/asdfa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "831720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IrwvrUOWyWUiwlBAVyCvVK939lbJfi0w9rkS8XF0sxg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 17:42:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2gm6h5a2zb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IrwvrUOWyWUiwlBAVyCvVK939lbJfi0w9rkS8XF0sxg="
+        },
+        {
+          "Name": "label",
+          "Value": "pictures/asdfa.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "pictures/asdfa.jpg",
+      "AssetFile": "pictures/asdfa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "831720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IrwvrUOWyWUiwlBAVyCvVK939lbJfi0w9rkS8XF0sxg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 17:42:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IrwvrUOWyWUiwlBAVyCvVK939lbJfi0w9rkS8XF0sxg="
+        }
+      ]
+    },
+    {
       "Route": "pictures/tyrt.8y2xtxqrvi.jpg",
       "AssetFile": "pictures/tyrt.jpg",
       "Selectors": [],

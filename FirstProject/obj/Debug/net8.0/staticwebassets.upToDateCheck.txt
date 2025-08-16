@@ -58,6 +58,7 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\pictures\asdfa.jpg
 wwwroot\pictures\Moazz.jpg
 wwwroot\pictures\Moazzem.jpg
 wwwroot\pictures\tyrt.jpg
