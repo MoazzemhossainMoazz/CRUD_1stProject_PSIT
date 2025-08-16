@@ -19,6 +19,14 @@ namespace FirstProject.Controllers
             return View(model);
         }
 
+        public ActionResult Delete(int id)
+        {
+            var model = _dbContext.Employees.Find(id);
+            _dbContext.Employees.Remove(model);
+            _dbContext.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
         public ActionResult Create()
         {
             return View();
